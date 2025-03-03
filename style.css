@@ -338,7 +338,7 @@ img {
           color: #70c745; }
         @media only screen and (max-width: 767px) {
           .header-area .top-header-area .top-header-content .top-header-meta a span {
-            display: none; } }
+            display: inline-flex; } }
       .header-area .top-header-area .top-header-content .top-header-meta .language-dropdown {
         position: relative;
         z-index: 1; }
